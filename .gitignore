@@ -1,3 +1,6 @@
 *.class
 .idea
 target/
+.iml
+project/target/
+project/project/target/
