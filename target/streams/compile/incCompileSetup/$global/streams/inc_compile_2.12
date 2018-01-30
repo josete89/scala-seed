@@ -1,0 +1,486 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/JsonSupport.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/QuickstartServer$.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/QuickstartServer$delayedInit$body.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/QuickstartServer.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/User$.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/User.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$$anonfun$receive$1.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$ActionPerformed$.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$ActionPerformed.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$GetUsers$.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/Users$.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/Users.class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRoutes.class
+binary dependencies:
+20 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.12/jars/akka-http-spray-json_2.12-10.0.11.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> /Users/alcaljos/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> /Users/alcaljos/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.8.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.11.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.11.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.8.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.8.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> /Users/alcaljos/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.8.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.11.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.12/jars/akka-http-spray-json_2.12-10.0.11.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.11.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+5 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> /Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala
+inheritance external dependencies:
+0 items
+class names:
+15 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> com.lightbend.akka.http.sample.JsonSupport
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> com.lightbend.akka.http.sample.QuickstartServer
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> com.lightbend.akka.http.sample.QuickstartServer$
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> com.lightbend.akka.http.sample.QuickstartServer$delayedInit$body
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.User
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.User$
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.UserRegistryActor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.UserRegistryActor$
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.UserRegistryActor$$anonfun$receive$1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.UserRegistryActor$ActionPerformed
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.UserRegistryActor$ActionPerformed$
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.UserRegistryActor$GetUsers$
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.Users
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com.lightbend.akka.http.sample.Users$
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> com.lightbend.akka.http.sample.UserRoutes
+used names:
+317 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> ActionPerformed
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> Any
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> ClassManifest
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> ClassManifestFactory
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> DefaultJsonProtocol
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> Function1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> Function3
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> IntJsonFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> JF
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> JsonFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> JsonSupport
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> Nothing
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> P1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> P2
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> P3
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> Predef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> Product
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> RootJsonFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> Seq
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> SprayJsonSupport
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> StringJsonFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> T
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> User
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> UserRegistryActor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> akka
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> classType
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> com
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> http
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> json
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> jsonFormat1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> jsonFormat3
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> lightbend
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> marshallers
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> reflect
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> sample
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> scaladsl
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> seqFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> spray
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> sprayjson
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> userJsonFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> <init>
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> <repeated>
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ActorMaterializer
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ActorMaterializerSettings
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ActorRef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ActorRefFactory
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ActorSystem
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Any
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> App
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Await
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Awaitable
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ConnectionContext
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Duration
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ExceptionHandler
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ExecutionContext
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Flow
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Future
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Http
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> HttpExt
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> HttpRequest
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> HttpResponse
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Inf
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Infinite
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Int
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> LoggingAdapter
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Materializer
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> NotUsed
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Nothing
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Object
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Option
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ParserSettings
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Predef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Props
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> QuickstartServer
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> RejectionHandler
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Route
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> RouteResult
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> RoutingLog
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> RoutingSettings
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ServerBinding
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> ServerSettings
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> String
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> StringContext
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> T
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Terminated
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> Unit
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> UserRegistryActor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> UserRoutes
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> actor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> actorOf
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> akka
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> apply
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> bindAndHandle
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> com
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> concurrent
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> default
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> duration
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> fromActorSystem
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> http
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> lightbend
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> materializer
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> package
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> println
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> props
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> qual$1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> result
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> route2HandlerFlow
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> routes
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> s
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> sample
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> scaladsl
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> server
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> settings
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> stream
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> system
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> userRegistryActor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> userRoutes
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> whenTerminated
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$10
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$11
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$12
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$13
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$14
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$2
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$3
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$4
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$5
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$6
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$7
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$8
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> x$9
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> !
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> &&
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> <init>
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ==
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> A
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> A1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> AbstractFunction1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> AbstractFunction3
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> AbstractPartialFunction
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ActionPerformed
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Actor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ActorLogging
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ActorRef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Any
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> AnyRef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> B1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Boolean
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ClassTag
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Function1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> GetUsers
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> IndexOutOfBoundsException
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Int
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Iterator
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> None
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Nothing
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Object
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Option
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Predef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Product
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Props
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Receive
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ScalaActorRef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ScalaRunTime
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Seq
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Serializable
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Set
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Some
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Statics
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> String
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> T
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> T0
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> T1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> T2
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> T3
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Tuple3
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Unit
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> User
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> UserRegistryActor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> Users
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> _$7
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> _hashCode
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> _root_
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> _toString
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> actor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> actorRef2Scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> age
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> akka
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> anyHash
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> apply
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> asInstanceOf
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> com
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> countryOfResidence
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> description
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> empty
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> eq
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> finalizeHash
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> http
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> isInstanceOf
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> lightbend
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> materializeClassTag
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> mix
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> name
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> package
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> reflect
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> runtime
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> sample
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> self
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> sender
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> toSeq
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> toString
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> typedProductIterator
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> unchecked
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> users
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> ||
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> <byname>
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> <repeated>
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ?
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> A
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ActorRef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ActorSystem
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Any
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> AskableActorRef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> B
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Class
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ClassTag
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Directive
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Directive0
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Directives
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> DurationInt
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> FiniteDuration
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Function1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Future
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> GetUsers
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Int
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> JsonPrinter
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> JsonSupport
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> L
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> LogSource
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Logging
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> LoggingAdapter
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Marshaller
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> MethodDirectives
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Nothing
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> PathDirectives
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> PathMatcher
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> PathMatcher0
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Predef
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> RootJsonFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> RootJsonWriter
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Route
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> RouteDirectives
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> S
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> StandardRoute
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> StatusCodes
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> String
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> T
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Timeout
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ToEntityMarshaller
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ToResponseMarshallable
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ToResponseMarshaller
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> UserRegistryActor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> UserRoutes
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> Users
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> _$7
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> _segmentStringToPathMatcher
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> actor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> addByNameNullaryApply
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> akka
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> apply
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> ask
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> com
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> complete
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> concat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> concurrent
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> delete
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> directives
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> duration
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> event
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> fromAnyClass
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> futureMarshaller
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> get
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> http
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> liftMarshaller
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> lightbend
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> mapTo
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> marshalling
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> materializeClassTag
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> model
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> package
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> path
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> pathEnd
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> pathPrefix
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> pattern
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> post
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> qual$1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> reflect
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> sample
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> scala
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> scaladsl
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> seconds
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> server
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> sprayJsonMarshaller
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> system
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> timeout
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> userRegistryActor
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> users
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> usersJsonFormat
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> util
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> x$1
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> x$2
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> x$3
+product stamps:
+15 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/JsonSupport.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/QuickstartServer$.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/QuickstartServer$delayedInit$body.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/QuickstartServer.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/User$.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/User.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$$anonfun$receive$1.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$ActionPerformed$.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$ActionPerformed.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor$GetUsers$.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRegistryActor.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/UserRoutes.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/Users$.class -> lastModified(1517326317000)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/target/scala-2.12/classes/com/lightbend/akka/http/sample/Users.class -> lastModified(1517326317000)
+source stamps:
+4 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> hash(2912c15ec8af15baa1a9630cc725c2f753393a21)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> hash(30a25ca3ce33461bc85cf6861ff99203dd21c87e)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> hash(d71fc323678b365bdc925cc60610976877eff736)
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> hash(b2b53ca9d0cebed0fe2a93ba8e7ad659122ece77)
+binary stamps:
+8 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1500701265000)
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.8.jar -> lastModified(1512666589000)
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.11.jar -> lastModified(1512119057000)
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.12/jars/akka-http-spray-json_2.12-10.0.11.jar -> lastModified(1512119106000)
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.11.jar -> lastModified(1512119093000)
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.8.jar -> lastModified(1512666711000)
+/Users/alcaljos/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar -> lastModified(1508828031000)
+/Users/alcaljos/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> lastModified(1507705630000)
+class names:
+8 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.8.jar -> akka.util.Timeout
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.11.jar -> akka.http.scaladsl.model.StatusCodes
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.12/jars/akka-http-spray-json_2.12-10.0.11.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.11.jar -> akka.http.scaladsl.server.RouteConcatenation
+/Users/alcaljos/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.8.jar -> akka.stream.scaladsl.Flow
+/Users/alcaljos/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar -> spray.json.RootJsonWriter
+/Users/alcaljos/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> scala.Function1
+internal apis:
+4 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw3omx0AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAxzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBj086zdAAPdXNlcnNKc29uRm9ybWF0c3EAfgALyRqrAnQAInNwcmF5SnNWYWx1ZUJ5dGVTdHJpbmdVbm1hcnNoYWxsZXJzcQB+AAuM1bPXdAAec3ByYXlKc29uVW5tYXJzaGFsbGVyQ29udmVydGVyc3EAfgALmSAaGXQAGHNwcmF5SnNWYWx1ZVVubWFyc2hhbGxlcnNxAH4ACyvtpkV0ABVzcHJheUpzb25Vbm1hcnNoYWxsZXJzcQB+AAv//by7dAAcc3ByYXlKc29uTWFyc2hhbGxlckNvbnZlcnRlcnNxAH4AC5iJwGV0ABVzcHJheUpzb25Tb3VyY2VSZWFkZXJzcQB+AAucLcPZdAATc3ByYXlKc29uTWFyc2hhbGxlcnNxAH4AC3VvLLZ0ABZzcHJheUpzVmFsdWVNYXJzaGFsbGVyc3EAfgALlL85anQAH3NwcmF5SnNvbkJ5dGVTdHJpbmdVbm1hcnNoYWxsZXJzcQB+AAtzJaBsdAAZYWN0aW9uUGVyZm9ybWVkSnNvbkZvcm1hdHNxAH4ACws4Ja90AA51c2VySnNvbkZvcm1hdHVxAH4ACQAAABhzcQB+AAtb6a2GdAAGbm90aWZ5c3EAfgAL8yTVMHQABHdhaXRzcQB+AAs56fpedAANJGFzSW5zdGFuY2VPZnNxAH4AC/8jAHh0AAZlcXVhbHNzcQB+AAte60x8dAAgc3ByYXlKc1ZhbHVlTWFyc2hhbGxlciRkZWZhdWx0JDFzcQB+AAt/P4ABdAAMYXNJbnN0YW5jZU9mc3EAfgALas1R8nQADHN5bmNocm9uaXplZHNxAH4ACy+fGRJ0AA0kaXNJbnN0YW5jZU9mc3EAfgALPqbHGHQACW5vdGlmeUFsbHNxAH4ACyOKlhV0AAxpc0luc3RhbmNlT2ZzcQB+AAuVfrQHdAALSnNvblN1cHBvcnRzcQB+AAvwyIGJdAACPT1zcQB+AAuCVS5+dAAdc3ByYXlKc29uTWFyc2hhbGxlciRkZWZhdWx0JDJzcQB+AAvRjBdUdAAFY2xvbmVzcQB+AAtaiWzIdAAGJGluaXQkc3EAfgALkQM7enQAJnNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXIkZGVmYXVsdCQyc3EAfgALqWHvUnQACHRvU3RyaW5nc3EAfgALVoAHr3QAAiE9c3EAfgAL2pOfh3QACGdldENsYXNzc3EAfgALBwsMdXQAAm5lc3EAfgALqxAAn3QAAmVxc3EAfgALYLXGtnQAAiMjc3EAfgALctSbQnQACGZpbmFsaXplc3EAfgALnJsgAHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAKmNvbS5saWdodGJlbmQuYWtrYS5odHRwLnNhbXBsZS5Kc29uU3VwcG9ydHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB4c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AfXNxAH4AeHVxAH4AWgAAAABzcQB+AHh1cQB+AFoAAAAAc3EAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB8dAAQU3ByYXlKc29uU3VwcG9ydHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AlXQABGh0dHBzcQB+AJV0AAhzY2FsYWRzbHNxAH4AlXQAC21hcnNoYWxsZXJzc3EAfgCVdAAJc3ByYXlqc29uc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJZzcQB+AIl0AAZPYmplY3RzcQB+AI1zcQB+AJB1cQB+AJMAAAADc3EAfgCVdAAEamF2YXNxAH4AlXQABGxhbmdxAH4AonNxAH4AiXQAA0FueXNxAH4AjXNxAH4AkHVxAH4AkwAAAAJzcQB+AJV0AAVzY2FsYXEAfgCidXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAeY29tLmxpZ2h0YmVuZC5ha2thLmh0dHAuc2FtcGxlc3EAfgC1dAASY29tLmxpZ2h0YmVuZC5ha2thc3EAfgC1dAADY29tc3EAfgC1dAAXY29tLmxpZ2h0YmVuZC5ha2thLmh0dHBzcQB+ALV0AA1jb20ubGlnaHRiZW5kc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhR7IbvHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFAvVXNlcnMvYWxjYWxqb3MvUHJvamVjdHMvaW50ZXJ2aWV3X3NjYWxhL2Fra2FfaHR0cF9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCkSwV7IrxW6oaljDMclwvdTOToh
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhweyHuqgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAA9zcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB3tQ4NdAAPdXNlcnNKc29uRm9ybWF0c3EAfgALfEoYA3QAInNwcmF5SnNWYWx1ZUJ5dGVTdHJpbmdVbm1hcnNoYWxsZXJzcQB+AAsNgiftdAAec3ByYXlKc29uVW5tYXJzaGFsbGVyQ29udmVydGVyc3EAfgAL13oJOXQAGHNwcmF5SnNWYWx1ZVVubWFyc2hhbGxlcnNxAH4ACwzupz90AAZzeXN0ZW1zcQB+AAtVlDHBdAAVc3ByYXlKc29uVW5tYXJzaGFsbGVyc3EAfgALHBd2gXQAHHNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAtbPvz7dAAVc3ByYXlKc29uU291cmNlUmVhZGVyc3EAfgALFhLAonQAE3NwcmF5SnNvbk1hcnNoYWxsZXJzcQB+AAtE5EETdAAWc3ByYXlKc1ZhbHVlTWFyc2hhbGxlcnNxAH4AC2VUsuZ0AB9zcHJheUpzb25CeXRlU3RyaW5nVW5tYXJzaGFsbGVyc3EAfgALvIPBonQADG1hdGVyaWFsaXplcnNxAH4AC0QUw9d0ABlhY3Rpb25QZXJmb3JtZWRKc29uRm9ybWF0c3EAfgALLaLpk3QAB3RpbWVvdXRzcQB+AAuZfpVHdAAOdXNlckpzb25Gb3JtYXR1cQB+AAkAAAAgc3EAfgALneEbIHQABm5vdGlmeXNxAH4AC4CJXkZ0AAp1c2VyUm91dGVzc3EAfgALrUmOBXQABHdhaXRzcQB+AAv12nkjdAANJGFzSW5zdGFuY2VPZnNxAH4AC6pkHwN0AAZyb3V0ZXNzcQB+AAvB+F6HdAAGZXF1YWxzc3EAfgALn2l2LnQAEXVzZXJSZWdpc3RyeUFjdG9yc3EAfgALKZYiM3QAIHNwcmF5SnNWYWx1ZU1hcnNoYWxsZXIkZGVmYXVsdCQxc3EAfgALrQojFnQADGFzSW5zdGFuY2VPZnNxAH4AC9oF4590AA5leGVjdXRpb25TdGFydHNxAH4AC/WpZCV0AAxzeW5jaHJvbml6ZWRzcQB+AAs0jU+9dAANJGlzSW5zdGFuY2VPZnNxAH4AC9RkswV0AARtYWluc3EAfgAL9mdsw3QACW5vdGlmeUFsbHNxAH4AC1AJkfJ0ABBRdWlja3N0YXJ0U2VydmVyc3EAfgAL/wiF93QADGlzSW5zdGFuY2VPZnNxAH4AC6dA2P50AAI9PXNxAH4AC9eFhnp0AB1zcHJheUpzb25NYXJzaGFsbGVyJGRlZmF1bHQkMnNxAH4ACxzqsLJ0AAVjbG9uZXNxAH4AC27Iiqd0AAYkaW5pdCRzcQB+AAuHZ+IGdAAmc3ByYXlKc29uTWFyc2hhbGxlckNvbnZlcnRlciRkZWZhdWx0JDJzcQB+AAtaDoNQdAAIdG9TdHJpbmdzcQB+AAuOQWw7dAAEYXJnc3NxAH4AC10TJu90AAIhPXNxAH4AC3crih90AAhnZXRDbGFzc3NxAH4AC7UhaPh0AAJuZXNxAH4AC3C0Mtl0AAJlcXNxAH4AC09ZzjJ0AANsb2dzcQB+AAtKN7wOdAALZGVsYXllZEluaXRzcQB+AAt1w8IkdAACIyNzcQB+AAsfuVdrdAAIZmluYWxpemVzcQB+AAsvIupidAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB1eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAvY29tLmxpZ2h0YmVuZC5ha2thLmh0dHAuc2FtcGxlLlF1aWNrc3RhcnRTZXJ2ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AdUwACWluaGVyaXRlZHEAfgB1TAAHcGFyZW50c3EAfgB1eHEAfgCVc3EAfgCQdXEAfgBwAAAAAHNxAH4AkHVxAH4AcAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AdnEAfgB/dXEAfgCAAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4An3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCUdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALlzcQB+AIIAcQB+AEV1cQB+AIUAAAAAc3EAfgCsdAAEVW5pdHEAfgCydXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4An3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AiHQABVBsYWlucQB+AFlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AK1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJRzcQB+AKx0AAVBcnJheXEAfgCydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AKx0AAZTdHJpbmdzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4dAAEamF2YXNxAH4AuHQABGxhbmdxAH4AvXNxAH4AkHVxAH4A1AAAAAdzcQB+AKx0AApVc2VyUm91dGVzc3EAfgCwc3EAfgCzdXEAfgC2AAAABnNxAH4AuHQAA2NvbXNxAH4AuHQACWxpZ2h0YmVuZHNxAH4AuHQABGFra2FzcQB+ALh0AARodHRwc3EAfgC4dAAGc2FtcGxlcQB+AL1zcQB+AKx0AAtKc29uU3VwcG9ydHEAfgDjc3EAfgCsdAAQU3ByYXlKc29uU3VwcG9ydHNxAH4AsHNxAH4As3VxAH4AtgAAAAZzcQB+ALh0AARha2thc3EAfgC4dAAEaHR0cHNxAH4AuHQACHNjYWxhZHNsc3EAfgC4dAALbWFyc2hhbGxlcnNzcQB+ALh0AAlzcHJheWpzb25xAH4AvXNxAH4ArHQAA0FwcHEAfgCyc3EAfgCsdAALRGVsYXllZEluaXRxAH4AsnNxAH4ArHQABk9iamVjdHEAfgDYc3EAfgCsdAADQW55cQB+ALJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AB5jb20ubGlnaHRiZW5kLmFra2EuaHR0cC5zYW1wbGVzcQB+AQt0ABJjb20ubGlnaHRiZW5kLmFra2FzcQB+AQt0AANjb21zcQB+AQt0ABdjb20ubGlnaHRiZW5kLmFra2EuaHR0cHNxAH4BC3QADWNvbS5saWdodGJlbmRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFHshu8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUC9Vc2Vycy9hbGNhbGpvcy9Qcm9qZWN0cy9pbnRlcnZpZXdfc2NhbGEvYWtrYV9odHRwX2FwaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUMKJco84zRhvIXPaGH/mSA90hyH4=
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwMkcw5wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB8OFB7dAAEc2VsZnNxAH4AC9Aiiel0AAdjb250ZXh0dXEAfgAJAAAAPHNxAH4ACxFCjTd0AAZub3RpZnlzcQB+AAv/hUiddAAHdW5hcHBseXNxAH4ACxW3JLF0AAdSZWNlaXZlc3EAfgALRWxAX3QABG5hbWVzcQB+AAtw3I1PdAAEd2FpdHNxAH4AC1P+ON10AA9BY3Rpb25QZXJmb3JtZWRzcQB+AAun6LVUdAAOY29weSRkZWZhdWx0JDJzcQB+AAvEQDfedAANJGFzSW5zdGFuY2VPZnNxAH4ACyRSX1x0AAVVc2Vyc3NxAH4ACx9hjEB0ABFVc2VyUmVnaXN0cnlBY3RvcnNxAH4AC/DsAvx0AAdjb21wb3Nlc3EAfgAL7VnsDHQADHByb2R1Y3RBcml0eXNxAH4AC3oYJ790AAZlcXVhbHNzcQB+AAsianTEdAALZGVzY3JpcHRpb25zcQB+AAut+RPSdAAMYXNJbnN0YW5jZU9mc3EAfgALpqZM6HQABXVzZXJzc3EAfgAL3k4Wy3QADHN5bmNocm9uaXplZHNxAH4ACyTbfoR0AA0kaXNJbnN0YW5jZU9mc3EAfgALFzrmknQAB2FuZFRoZW5zcQB+AAt4+tuhdAAHcmVjZWl2ZXNxAH4AC3VbHUp0AApwcmVSZXN0YXJ0c3EAfgALZOo2AnQADWFyb3VuZFJlY2VpdmVzcQB+AAvDGbg3dAAIY2FuRXF1YWxzcQB+AAs/B8O4dAALcG9zdFJlc3RhcnRzcQB+AAvH9qbqdAAIcG9zdFN0b3BzcQB+AAtfjQ8IdAANcHJvZHVjdFByZWZpeHNxAH4AC7BcBGR0AANhZ2VzcQB+AAvBAwiGdAAJbm90aWZ5QWxsc3EAfgALl3TS8nQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALtPbZlHQADGlzSW5zdGFuY2VPZnNxAH4ACwiCfIZ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALuea9DXQADmFyb3VuZFBvc3RTdG9wc3EAfgALodHGsnQACEdldFVzZXJzc3EAfgALswOmKHQABjxpbml0PnNxAH4AC4Eg7cd0AAhwcmVTdGFydHNxAH4AC55YyA50AAl1bmhhbmRsZWRzcQB+AAuv9/59dAAFYXBwbHlzcQB+AAs1PE+5dAACPT1zcQB+AAtag2/JdAAFY2xvbmVzcQB+AAuBUylDdAAGJGluaXQkc3EAfgALc924nXQABFVzZXJzcQB+AAv4giImdAAOY29weSRkZWZhdWx0JDNzcQB+AAvDa2rmdAAEY29weXNxAH4AC3Qj8VV0AAZzZW5kZXJzcQB+AAuF1fb8dAAIdG9TdHJpbmdzcQB+AAsvWRYQdAACIT1zcQB+AAvv/V++dAAIZ2V0Q2xhc3NzcQB+AAuXRkEcdAAOY29weSRkZWZhdWx0JDFzcQB+AAuQzW5ddAAFcHJvcHNzcQB+AAtkpKbTdAACbmVzcQB+AAuFkL4FdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALKDdhrHQAAmVxc3EAfgALCEEk0XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACx0cFLd0AANsb2dzcQB+AAuVRC0RdAACIyNzcQB+AAv9+lyWdAAIZmluYWxpemVzcQB+AAvdgQbkdAASY291bnRyeU9mUmVzaWRlbmNlc3EAfgALeRc6CXQADnByb2R1Y3RFbGVtZW50c3EAfgALS8qTC3QACGhhc2hDb2Rlc3EAfgAL7FcErnQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ak3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwBHQAI2NvbS5saWdodGJlbmQuYWtrYS5odHRwLnNhbXBsZS5Vc2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ak0wACWluaGVyaXRlZHEAfgCTTAAHcGFyZW50c3EAfgCTeHEAfgCxc3EAfgCsdXEAfgCOAAAAAHNxAH4ArHVxAH4AjgAAAABzcQB+AKx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALB0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMpzcQB+AL1xAH4AwHNxAH4AwXNxAH4AxHVxAH4AxwAAAANzcQB+AMl0AARqYXZhc3EAfgDJdAACaW9xAH4AznNxAH4AvXQAB1Byb2R1Y3RxAH4Aw3NxAH4AvXQABkVxdWFsc3EAfgDDc3EAfgC9dAAGT2JqZWN0c3EAfgDBc3EAfgDEdXEAfgDHAAAAA3NxAH4AyXEAfgDUc3EAfgDJdAAEbGFuZ3EAfgDOc3EAfgC9dAADQW55cQB+AMNzcQB+AJBxAH4AnXVxAH4AngAAAABzcQB+AKAEdAAkY29tLmxpZ2h0YmVuZC5ha2thLmh0dHAuc2FtcGxlLlVzZXJzdXEAfgCjAAAAAHEAfgCndXEAfgCpAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4ArHEAfgCyc3EAfgCsc3EAfgC0c3EAfgCsdXEAfgCOAAAAAHNxAH4ArHVxAH4AjgAAAABzcQB+AKx1cQB+ALsAAAAGc3EAfgC9cQB+AMBzcQB+AMFzcQB+AMR1cQB+AMcAAAACc3EAfgDJcQB+AMxxAH4AznNxAH4AvXEAfgDAc3EAfgDBc3EAfgDEdXEAfgDHAAAAA3NxAH4AyXEAfgDUc3EAfgDJdAACaW9xAH4AznNxAH4AvXEAfgDYcQB+APZzcQB+AL10AAZFcXVhbHNxAH4A9nNxAH4AvXEAfgDcc3EAfgDBc3EAfgDEdXEAfgDHAAAAA3NxAH4AyXEAfgDUc3EAfgDJcQB+AOJxAH4AznNxAH4AvXEAfgDkcQB+APZzcQB+AJBxAH4AnXVxAH4AngAAAABzcQB+AKAAdAAwY29tLmxpZ2h0YmVuZC5ha2thLmh0dHAuc2FtcGxlLlVzZXJSZWdpc3RyeUFjdG9ydXEAfgCjAAAAAH5xAH4ApXQABk1vZHVsZXVxAH4AqQAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+AKxxAH4AsnNxAH4ArHNxAH4AtHNxAH4ArHVxAH4AjgAAAABzcQB+AKx1cQB+AI4AAAAAc3EAfgCsdXEAfgC7AAAAAnNxAH4AvXEAfgDcc3EAfgDBc3EAfgDEdXEAfgDHAAAAA3NxAH4AyXEAfgDUc3EAfgDJcQB+AOJxAH4AznNxAH4AvXEAfgDkc3EAfgDBc3EAfgDEdXEAfgDHAAAAAnNxAH4AyXEAfgDMcQB+AM5zcQB+AJBxAH4AnXVxAH4AngAAAABzcQB+AKAAdAAwY29tLmxpZ2h0YmVuZC5ha2thLmh0dHAuc2FtcGxlLlVzZXJSZWdpc3RyeUFjdG9ydXEAfgCjAAAAAHEAfgCndXEAfgCpAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4ArHEAfgCyc3EAfgCsc3EAfgC0c3EAfgCsdXEAfgCOAAAAAHNxAH4ArHVxAH4AjgAAAABzcQB+AKx1cQB+ALsAAAAEc3EAfgC9dAAMQWN0b3JMb2dnaW5nc3EAfgDBc3EAfgDEdXEAfgDHAAAAA3NxAH4AyXQABGFra2FzcQB+AMl0AAVhY3RvcnEAfgDOc3EAfgC9dAAFQWN0b3JxAH4BOnNxAH4AvXEAfgDcc3EAfgDBc3EAfgDEdXEAfgDHAAAAA3NxAH4AyXEAfgDUc3EAfgDJcQB+AOJxAH4AznNxAH4AvXEAfgDkc3EAfgDBc3EAfgDEdXEAfgDHAAAAAnNxAH4AyXEAfgDMcQB+AM51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AB5jb20ubGlnaHRiZW5kLmFra2EuaHR0cC5zYW1wbGVzcQB+AVB0ABJjb20ubGlnaHRiZW5kLmFra2FzcQB+AVB0AANjb21zcQB+AVB0ABdjb20ubGlnaHRiZW5kLmFra2EuaHR0cHNxAH4BUHQADWNvbS5saWdodGJlbmRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFHshu8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUC9Vc2Vycy9hbGNhbGpvcy9Qcm9qZWN0cy9pbnRlcnZpZXdfc2NhbGEvYWtrYV9odHRwX2FwaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1x/DI2eLNlvcklzGBhCXaHfv9zY=
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRw//OwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAA5zcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAm10eCdAAPdXNlcnNKc29uRm9ybWF0c3EAfgALkXQbqnQAInNwcmF5SnNWYWx1ZUJ5dGVTdHJpbmdVbm1hcnNoYWxsZXJzcQB+AAvYbjUJdAAec3ByYXlKc29uVW5tYXJzaGFsbGVyQ29udmVydGVyc3EAfgALVS0ZCnQAGHNwcmF5SnNWYWx1ZVVubWFyc2hhbGxlcnNxAH4AC1oS/6V0AAZzeXN0ZW1zcQB+AAvxV27QdAAVc3ByYXlKc29uVW5tYXJzaGFsbGVyc3EAfgALV4g+tXQAHHNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAvg2JE5dAAVc3ByYXlKc29uU291cmNlUmVhZGVyc3EAfgALr1YLkHQAE3NwcmF5SnNvbk1hcnNoYWxsZXJzcQB+AAvQ9H1tdAAWc3ByYXlKc1ZhbHVlTWFyc2hhbGxlcnNxAH4AC4uTMgJ0AB9zcHJheUpzb25CeXRlU3RyaW5nVW5tYXJzaGFsbGVyc3EAfgAL0u2Z7HQAGWFjdGlvblBlcmZvcm1lZEpzb25Gb3JtYXRzcQB+AAsGqom6dAAHdGltZW91dHNxAH4AC2i6RVB0AA51c2VySnNvbkZvcm1hdHVxAH4ACQAAABtzcQB+AAtC7jqudAAGbm90aWZ5c3EAfgALRDEL6HQACnVzZXJSb3V0ZXNzcQB+AAss/WqcdAAEd2FpdHNxAH4ACw+5DT10AA0kYXNJbnN0YW5jZU9mc3EAfgAL1e7FVHQABmVxdWFsc3NxAH4AC7eWiER0ABF1c2VyUmVnaXN0cnlBY3RvcnNxAH4AC9orvl90ACBzcHJheUpzVmFsdWVNYXJzaGFsbGVyJGRlZmF1bHQkMXNxAH4AC45JDb10AAxhc0luc3RhbmNlT2ZzcQB+AAsxHFQsdAAMc3luY2hyb25pemVkc3EAfgAL882twHQADSRpc0luc3RhbmNlT2ZzcQB+AAuhs7RZdAAJbm90aWZ5QWxsc3EAfgAL8i8BAHQADGlzSW5zdGFuY2VPZnNxAH4AC7gvdel0AAI9PXNxAH4AC+28VFR0AB1zcHJheUpzb25NYXJzaGFsbGVyJGRlZmF1bHQkMnNxAH4ACyQ9ha50AAVjbG9uZXNxAH4AC1pg6El0AApVc2VyUm91dGVzc3EAfgALPP5BUXQABiRpbml0JHNxAH4ACy3+f0J0ACZzcHJheUpzb25NYXJzaGFsbGVyQ29udmVydGVyJGRlZmF1bHQkMnNxAH4ACwkLPh50AAh0b1N0cmluZ3NxAH4AC7+1kl90AAIhPXNxAH4AC6yIETB0AAhnZXRDbGFzc3NxAH4AC64EXCV0AAJuZXNxAH4AC28WzOt0AAJlcXNxAH4AC+yZIPN0AANsb2dzcQB+AAs9yperdAACIyNzcQB+AAsyN7JhdAAIZmluYWxpemVzcQB+AAutmNQedAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAApY29tLmxpZ2h0YmVuZC5ha2thLmh0dHAuc2FtcGxlLlVzZXJSb3V0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIdzcQB+AIJ1cQB+AGQAAAAAc3EAfgCCdXEAfgBkAAAAAHNxAH4AgnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhnQAC0pzb25TdXBwb3J0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCGc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAGc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANjb21zcQB+AJ90AAlsaWdodGJlbmRzcQB+AJ90AARha2thc3EAfgCfdAAEaHR0cHNxAH4An3QABnNhbXBsZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgc3EAfgCTdAAQU3ByYXlKc29uU3VwcG9ydHNxAH4Al3NxAH4AmnVxAH4AnQAAAAZzcQB+AJ90AARha2thc3EAfgCfdAAEaHR0cHNxAH4An3QACHNjYWxhZHNsc3EAfgCfdAALbWFyc2hhbGxlcnNzcQB+AJ90AAlzcHJheWpzb25xAH4ArHNxAH4Ak3QABk9iamVjdHNxAH4Al3NxAH4AmnVxAH4AnQAAAANzcQB+AJ90AARqYXZhc3EAfgCfdAAEbGFuZ3EAfgCsc3EAfgCTdAADQW55c3EAfgCXc3EAfgCadXEAfgCdAAAAAnNxAH4An3QABXNjYWxhcQB+AKx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AB5jb20ubGlnaHRiZW5kLmFra2EuaHR0cC5zYW1wbGVzcQB+AM50ABJjb20ubGlnaHRiZW5kLmFra2FzcQB+AM50AANjb21zcQB+AM50ABdjb20ubGlnaHRiZW5kLmFra2EuaHR0cHNxAH4AznQADWNvbS5saWdodGJlbmRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFHshu8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUC9Vc2Vycy9hbGNhbGpvcy9Qcm9qZWN0cy9pbnRlcnZpZXdfc2NhbGEvYWtrYV9odHRwX2FwaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUsrU8qdDOvtD+KpO6jnrWWRIuznc=
+external apis:
+0 items
+source infos:
+4 items
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/JsonSupport.scala -> 
+AAAAAAAAAAA=
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/QuickstartServer.scala -> 
+AAAAAAAAAAA=
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRegistryActor.scala -> 
+AAAAAAAAAAA=
+/Users/alcaljos/Projects/interview_scala/akka_http_api/src/main/scala/com/lightbend/akka/http/sample/UserRoutes.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYUeyG7x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9Vc2Vycy9hbGNhbGpvcy9Qcm9qZWN0cy9pbnRlcnZpZXdfc2NhbGEvYWtrYV9odHRwX2FwaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
